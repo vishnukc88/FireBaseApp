@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "865280224055",
+    "firebase_url": "https://fir-app-49f90.firebaseio.com",
+    "project_id": "fir-app-49f90",
+    "storage_bucket": "fir-app-49f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865280224055:android:2be6c6e7c430c220",
+        "android_client_info": {
+          "package_name": "in.vishnu.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865280224055-jqdr0rol9g3mcp7v5vpe7tqaf0buge0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZosOFuZM36kUxF3dtaE-XThHCYGiWTtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
